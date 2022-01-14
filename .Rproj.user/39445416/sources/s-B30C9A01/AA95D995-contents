@@ -1,0 +1,15 @@
+Package: seqTrun
+Type: Package
+Title: Nonparametric and Semiparametric Estimation with Sequentially Truncated Survival Data
+Version: 0.1.0
+Authors@R: c(person("Jing", "Qian", email = "qian@umass.edu", role = c("aut", "cre")), person("Jingyao", "Hou", role = "aut"))
+Author: Jing Qian, Jingyao Hou
+Maintainer: Jing Qian <qian@umass.edu>
+Description: An implementation of the nonparametric and semiparametric maximum likelihood
+    estimators for the distribution of the event time of interest in the 
+    presence of sequential truncation (Betensky, Qian and Hou, 2022). 
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports: survival
+RoxygenNote: 7.1.2

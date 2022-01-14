@@ -1,0 +1,2 @@
+# seqTrun
+ R package seqTrun
